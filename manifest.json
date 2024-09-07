@@ -1,6 +1,6 @@
 {
-    "name": "portfolio_web_delaystepback",
-    "short_name": "portfolio_web_delaystepback",
+    "name": "profile_resume_web",
+    "short_name": "profile_resume_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
